@@ -1,0 +1,21 @@
+[ {
+  "title" : "Jawbreakers",
+  "status" : "envie",
+  "dateTimeIso" : "2025-10-15T15:04:36.988492"
+}, {
+  "title" : "Le Fabuleux Destin d'Amélie Poulain",
+  "status" : "envie",
+  "dateTimeIso" : "2025-10-15T15:05:27.202356500"
+}, {
+  "title" : "Le Parrain III",
+  "status" : "deja_vu",
+  "dateTimeIso" : "2025-10-15T15:05:50.466281200"
+}, {
+  "title" : "\"Parasite\"",
+  "status" : "envie",
+  "dateTimeIso" : "2025-10-15T15:05:53.952515"
+}, {
+  "title" : "[Erreur Ollama] null",
+  "status" : "pas_interesse",
+  "dateTimeIso" : "2025-10-15T15:40:58.736032400"
+} ]
